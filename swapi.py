@@ -1,4 +1,4 @@
-""" Tries to get info for Luke Skywalker"""  # ඞ
+""" Tries to get info for Luke Skywalker"""  # ඞg
 import requests
 import urljoin
 
