@@ -18,3 +18,9 @@ repos:
         language: system
         types: [python]
         args: [--format=summary]
+    -   id: bandit
+        name: bandit
+        entry: bandit
+        language: system
+        types: [python]
+        args: [-r]
