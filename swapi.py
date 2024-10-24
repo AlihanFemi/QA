@@ -25,5 +25,5 @@ def people_get(number):
 
 
 if __name__ == "__main__":
-    for i in range(1, 5):
+    for i in range(1, 8):
         print(i, people_get(i))
